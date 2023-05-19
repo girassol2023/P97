@@ -1,0 +1,8 @@
+body {
+    background-color: hsl(290, 100%, 50%);
+}
+
+h1 {
+    color: hsl(285, 80%, 36%);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
